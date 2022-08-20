@@ -1,7 +1,7 @@
-API
+NFT
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   nft

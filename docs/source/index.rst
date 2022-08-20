@@ -14,4 +14,5 @@ Contents
 .. toctree::
 
    usage
-   api
+   nft
+   another
