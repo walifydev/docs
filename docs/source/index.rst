@@ -13,5 +13,5 @@ Contents
 
 .. toctree::
 
-   NFT example
+   usage
    api
